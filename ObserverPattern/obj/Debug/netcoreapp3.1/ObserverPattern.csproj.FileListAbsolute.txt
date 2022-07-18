@@ -1,0 +1,13 @@
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.exe
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.deps.json
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.json
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.dev.json
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.dll
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.pdb
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csprojAssemblyReference.cache
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfo.cs
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.dll
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.pdb
+D:\Projects\Visual Studio Projects\CSharp_Examples\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.genruntimeconfig.cache
